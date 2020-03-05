@@ -1,1 +1,1 @@
-Hello world
+Speaker list coming soon!
