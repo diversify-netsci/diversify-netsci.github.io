@@ -22,11 +22,21 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Raleway', 'sans-serif';
+    color: #d0f167;
+}
+h2 {
+    font-size: 3em;
+    font-family: Raleway, sans-serif;
+    color: #fff;
+    line-height: 36px;
+    text-align: left;
+    text-transform: none;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family:'Raleway', 'sans-serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
