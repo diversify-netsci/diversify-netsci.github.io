@@ -1,4 +1,5 @@
 body {
+    font-family:'Raleway', 'sans-serif';
     margin: 60px auto;
     width: 70%;
 }
@@ -21,37 +22,28 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Raleway', 'sans-serif';
     color: #d0f167;
 }
 h2 {
     font-size: 2.5em;
     color: #1e9cad;
-    font-family: Raleway, sans-serif;
     line-height: 36px;
     text-align: left;
     text-transform: none;
 }
 h3 {
     color: #1e9cad;
-    font-family: Raleway, sans-serif;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Raleway', 'sans-serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-ul { 
-    font-family:'Raleway', 'sans-serif';
-}
-
 ul li {
     font-size: 1.5em;
-    font-family:'Raleway', 'sans-serif';
 }
