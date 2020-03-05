@@ -25,12 +25,16 @@ h1 {
     color: #d0f167;
 }
 h2 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family: Raleway, sans-serif;
     color: #fff;
     line-height: 36px;
     text-align: left;
     text-transform: none;
+}
+h3 {
+    font-family: Raleway, sans-serif;
+    color: #fff;
 }
 p {
     font-size: 1.5em;
@@ -43,11 +47,11 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+ul { 
+    font-family:'Raleway', 'sans-serif';
 }
 
-ul.posts li {
+ul li {
+    font-family:'Raleway', 'sans-serif';
     list-style: none;
 }
