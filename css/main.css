@@ -26,12 +26,14 @@ h1 {
 }
 h2 {
     font-size: 2.5em;
+    color: #1e9cad;
     font-family: Raleway, sans-serif;
     line-height: 36px;
     text-align: left;
     text-transform: none;
 }
 h3 {
+    color: #1e9cad;
     font-family: Raleway, sans-serif;
 }
 p {
