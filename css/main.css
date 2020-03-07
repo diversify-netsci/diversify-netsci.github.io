@@ -57,6 +57,10 @@ footer {
 footer p {
     font-size: 1em
 }
+footer.blurb{
+    width: 75%;
+    margin: 0 auto;
+}
 .container{
     width: 70%;
     margin: 0 auto;
