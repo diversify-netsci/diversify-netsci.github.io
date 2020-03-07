@@ -53,9 +53,10 @@ p {
 footer {
     width: 75%;
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
-
+footer p {
+    font-size: .1em
+}
 .container{
     width: 70%;
     margin: 0 auto;
