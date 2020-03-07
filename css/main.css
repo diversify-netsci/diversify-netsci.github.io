@@ -49,3 +49,9 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+.masterhead{
+    background: url("images/banner.png");
+    background-size: cover;
+    margin: 0 auto;
+    padding: 0 auto;
+}
