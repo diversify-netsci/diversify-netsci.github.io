@@ -60,6 +60,7 @@ footer {
 footer p {
     font-size: 1em;
     margin: 0 auto;
+    text-align: center;
 }
 .footerblurb{
     width: 75%;
