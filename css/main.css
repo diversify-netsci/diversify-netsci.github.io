@@ -54,12 +54,12 @@ p {
     line-height: 1.4em;
 }
 footer {
+    margin: 0 auto;
     width: 75%;
     border-top: 1px solid #d5d5d5;
 }
 footer p {
     font-size: 1em;
-    margin: 0 auto;
     text-align: center;
 }
 .footerblurb{
