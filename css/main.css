@@ -22,6 +22,9 @@ nav ul il {
     border-radius: 12px;
     padding: 8px;
 }
+nav ul il a {
+    color: #045763;
+}
 li {
     font-size: 1.5em;
     margin-bottom: 1em;
