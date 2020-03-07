@@ -60,6 +60,7 @@ footer {
     background-size: cover;
     margin: 0 auto;
     padding: 0 auto;
+    display: inline-block;
 }
 .blurb{
     width: 75%;
