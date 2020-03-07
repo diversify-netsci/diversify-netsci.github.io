@@ -22,18 +22,15 @@ nav ul il {
     border-radius: 12px;
     padding: 8px;
 }
-nav ul il a {
-    color: #045763;
-}
 li {
     font-size: 1.5em;
     margin-bottom: 1em;
 }
-a {
+body a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
+body a:hover {
     text-decoration: underline;
 }
 h1 {
